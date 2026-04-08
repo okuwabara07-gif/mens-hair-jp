@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mens-hair-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/mens-hair-jp/sitemap.xml
